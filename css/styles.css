@@ -19,11 +19,20 @@
 
 img {
   width: 200px;
-  
+
 }
 body {
+  text-align: center;
   background-color: rgb(197, 163, 100);
 }
+
 .highlight {
   background-color: blue;
+}
+
+.centered-image img {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
 }
