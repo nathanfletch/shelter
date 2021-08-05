@@ -1,0 +1,29 @@
+.column {
+  width: 300px;
+  float: left;
+  border: solid;
+  border-width: 10px;
+  border-color: black;
+  box-sizing: border-box;
+  height: 900px;
+}
+
+.fancy {
+  color: red;
+  font-style: oblique
+}
+
+.fancy p {
+  background-color: lightblue;
+}
+
+img {
+  width: 200px;
+  
+}
+body {
+  background-color: rgb(197, 163, 100);
+}
+.highlight {
+  background-color: blue;
+}
